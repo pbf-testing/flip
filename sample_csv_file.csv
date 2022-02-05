@@ -1,0 +1,2 @@
+individual_id,age_when_attended_assessment_centre,Sex,Waist_circumference,Hip_circumference,height,weight,Body_mass_index_BMI,Alanine_aminotransferase,Aspartate_aminotransferase,Gamma_glutamyltransferase,Triglycerides,Urate,Platelet_count,Testosterone,liver_disease_diagnosis_2
+1,years,M/F,cm,cm,cm,kg,kg/m^2,U/L,U/L,U/L,mmol/L,umol/L,10^9/L,nmol/L,True/False
