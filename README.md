@@ -1,6 +1,6 @@
 The source code in this GitHub respiratory is based on the method proposed in:
 
-'Raising the accuracy of fatty liver index to reflect liver fat content: A predictive regression modelling study using the UK Biobank cohort (2022)' by Hykoush A. Asaturyan, E. Louise Thomas, Brandon Whitcher, Marjola Thanaj, Nicolas Basty and Jimmy D. Bell. [link].
+'Raising the accuracy of fatty liver index to reflect liver fat content: A predictive regression modelling study using the UK Biobank cohort (2022)' by H. Alice Asaturyan, E. Louise Thomas, Brandon Whitcher, Marjola Thanaj, Nicolas Basty and Jimmy D. Bell. [link].
 
 This GitHub respiratory contains the following files:
 
