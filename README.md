@@ -12,9 +12,9 @@ This GitHub respiratory contains the following files:
 
 The main program presented in this GitHub respiratory was built using Python 3.7.
 
-**OPTION 1:** To train a FLI+ model (2) from scratch, you will need a multiple subject dataset with the appropriate variables given in (3).
+**OPTION 1:** To train a FLI+ model (2) from scratch, you will need a multiple-subject dataset with the appropriate variables given in (3).
 
-**OPTION 2:** To apply (2) to a dataset of multiple subject data, you can use (3) as a guide and then run the function "apply_fli_plus_csv" in (1).
+**OPTION 2:** To apply (2) to a dataset of multiple subjects, you can use (3) as a guide and then run the function "apply_fli_plus_csv" in (1).
 
 **OPTION 3**: To apply (2) to a single test subject, edit the appropriate input variables in (1) and then run the function "apply_fli_plus_single" in (1).
 
